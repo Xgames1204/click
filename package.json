@@ -1,7 +1,8 @@
 {
   "name": "petion",
   "version": "1.0.0",
-  "type": "module",
+  "type": "commonjs",
+
   "main": "server.js",
   "scripts": {
     "preinstall": "rm -rf node_modules package-lock.json",
@@ -17,4 +18,3 @@
     "lowdb": "^7.0.1"
   }
 }
-
