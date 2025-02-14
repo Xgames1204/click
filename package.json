@@ -1,8 +1,7 @@
 {
   "name": "petion",
   "version": "1.0.0",
-  "type": "commonjs",
-
+  "type": "module",
   "main": "server.js",
   "scripts": {
     "preinstall": "rm -rf node_modules package-lock.json",
